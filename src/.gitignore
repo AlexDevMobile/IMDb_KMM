@@ -1,0 +1,44 @@
+# Gradle
+.gradle/
+build/
+
+# Intellij IDEA
+.idea/
+
+# Shared
+shared/build
+
+# Android
+*.iml
+*.apk
+*.ap_
+*.dex
+*.class
+local.properties
+captures/
+
+# iOS
+Pods/
+*.xcodeproj/
+*.xcworkspace/
+*.pbxproj
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+DerivedData/
+*.pbxuser
+!default.pbxuser
+*.xccheckout
+*.moved-aside
+*.xcuserstate
+
+
+
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
