@@ -1,9 +1,9 @@
 # IDE
-*.idea/
+**/.idea/
 
 # Gradle
-build/
-.gradle/
+src/build/
+src/.gradle/
 
 # macOS
 .DS_Store
